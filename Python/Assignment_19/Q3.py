@@ -10,7 +10,8 @@
 
 from functools import reduce
 
-CheckBetween = lambda No : No if No >= 70 and No <= 90 else None
+# CheckBetween = lambda No : No if No >= 70 and No <= 90 else None
+CheckBetween = lambda No: No >= 70 and No <= 90
 
 Increament = lambda No : No + 10
 
