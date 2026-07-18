@@ -20,14 +20,14 @@ def DisplayOdd(No):
 
 def main():
 
-    even = threading.Thread(name="Even", target=DisplayEven, args=(10,))
-    odd = threading.Thread(name="Odd", target=DisplayOdd, args=(10,))
+    tobj1 = threading.Thread(name="Even", target=DisplayEven, args=(10,))
+    tobj2 = threading.Thread(name="Odd", target=DisplayOdd, args=(10,))
 
-    even.start()
-    even.join()
+    tobj1.start()
+    tobj2.join()
 
-    odd.start()
-    odd.join()
+    tobj2.start()
+    tobj2.join()
 
 if __name__ == "__main__":
     main()
