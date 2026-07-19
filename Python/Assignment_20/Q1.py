@@ -10,13 +10,15 @@ import threading
 def DisplayEven(No):
     print(threading.current_thread().name)
     for i in range(2, No * 2 + 1, 2):
-        print(i)
+        print(i, end=" ")
+    print()
 
 
 def DisplayOdd(No):
     print(threading.current_thread().name)
     for i in range(1, No * 2, 2):
-        print(i)
+        print(i, end=" ")
+    print()
 
 def main():
 
@@ -24,7 +26,7 @@ def main():
     tobj2 = threading.Thread(name="Odd", target=DisplayOdd, args=(10,))
 
     tobj1.start()
-    tobj2.join()
+    tobj1.join()
 
     tobj2.start()
     tobj2.join()
