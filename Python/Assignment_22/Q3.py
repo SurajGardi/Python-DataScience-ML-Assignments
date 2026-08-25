@@ -9,6 +9,7 @@ Example
 Display total prime count for each number.
 """
 import multiprocessing
+
 def PrimeCount(No):
 
     Count = 0
