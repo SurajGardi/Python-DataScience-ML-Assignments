@@ -1,0 +1,32 @@
+Directory Path : Backup
+Number of Files : 4
+Date and Time : 28-08-2026 01:35:54 AM
+-----------------------------
+Directory Path : Backup
+Number of Files : 6
+Date and Time : 28-08-2026 01:36:04 AM
+-----------------------------
+Directory Path : Backup
+Number of Files : 5
+Date and Time : 28-08-2026 01:36:14 AM
+-----------------------------
+Directory Path : Backup
+Number of Files : 6
+Date and Time : 28-08-2026 01:36:24 AM
+-----------------------------
+Directory Path : Backup
+Number of Files : 4
+Date and Time : 28-08-2026 01:36:34 AM
+-----------------------------
+Directory Path : "D:\Marvellous\Python-ML-AI-GenAI Assignments\File Handling+Scheduling\Python FH+Scheduling Assignment 31" 
+Number of Files : 0
+Date and Time : 28-08-2026 04:20:59 PM
+-----------------------------
+Directory Path : "D:\Marvellous\Python-ML-AI-GenAI Assignments\File Handling+Scheduling\Python FH+Scheduling Assignment 31" 
+Number of Files : 0
+Date and Time : 28-08-2026 04:21:09 PM
+-----------------------------
+Directory Path : Source
+Number of Files : 2
+Date and Time : 28-08-2026 04:22:37 PM
+-----------------------------
