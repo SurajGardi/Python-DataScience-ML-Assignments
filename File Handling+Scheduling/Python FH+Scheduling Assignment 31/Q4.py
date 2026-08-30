@@ -14,6 +14,7 @@ import schedule
 import time
 import datetime
 
+
 def Display():
 
     CurrentTime = datetime.datetime.now()
