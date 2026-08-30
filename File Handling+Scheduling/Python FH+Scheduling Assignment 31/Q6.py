@@ -11,9 +11,9 @@ schedule.every().friday.at(...)
 
 """
 
-
 import schedule
 import time
+
 
 def MondayMessage():
     print("Start your weekly goals")
