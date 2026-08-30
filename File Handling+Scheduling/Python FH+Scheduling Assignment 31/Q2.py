@@ -11,6 +11,7 @@ The message should be accepted from the user.
 import schedule
 import time
 
+
 def DisplayMessage(message):
     print(message)
 
