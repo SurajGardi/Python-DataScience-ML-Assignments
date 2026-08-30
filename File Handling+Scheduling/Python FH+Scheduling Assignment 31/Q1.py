@@ -18,7 +18,6 @@ Validate that the interval is greater than zero.
 import schedule
 import time
 
-
 def main():
 
     message = input("Enter Message : ")
