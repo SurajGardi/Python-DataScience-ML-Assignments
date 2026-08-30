@@ -43,7 +43,6 @@ def Display(DirectoryPath):
 
 
 def main():
-
     print("Automation Script Started...")
 
     DirectoryName = input("Enter Directory Name : ")
