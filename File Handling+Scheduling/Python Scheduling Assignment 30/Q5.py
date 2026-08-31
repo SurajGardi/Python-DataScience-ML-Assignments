@@ -14,7 +14,6 @@ import schedule
 import time
 import datetime
 
-
 def Display():
 
     fobj = open("Marvellous.txt", "a")
