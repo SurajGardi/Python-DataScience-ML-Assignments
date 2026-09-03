@@ -1,0 +1,28 @@
+========== Duplicate File Removal ==========
+Starting time of directory scanning : 2026-09-02 01:55:26.794762
+Directory scanned : D:\Marvellous\Python-ML-AI-GenAI Assignments\File Handling+Scheduling\Python Automation Assignment 33 - Duplicate File Removal Automation\DuplicateFileRemoval\Demo
+
+Original File : D:\Marvellous\Python-ML-AI-GenAI Assignments\File Handling+Scheduling\Python Automation Assignment 33 - Duplicate File Removal Automation\DuplicateFileRemoval\Demo\Demo.txt
+Checksum : c326e0b7b568e72f809c941ab72211c8
+Duplicate File : D:\Marvellous\Python-ML-AI-GenAI Assignments\File Handling+Scheduling\Python Automation Assignment 33 - Duplicate File Removal Automation\DuplicateFileRemoval\Demo\Demo1.txt
+Checksum : c326e0b7b568e72f809c941ab72211c8
+Deleted : D:\Marvellous\Python-ML-AI-GenAI Assignments\File Handling+Scheduling\Python Automation Assignment 33 - Duplicate File Removal Automation\DuplicateFileRemoval\Demo\Demo1.txt
+Original File : D:\Marvellous\Python-ML-AI-GenAI Assignments\File Handling+Scheduling\Python Automation Assignment 33 - Duplicate File Removal Automation\DuplicateFileRemoval\Demo\Test.txt
+Checksum : 475f58d0e3f95f0b72c0e884524ba9de
+Duplicate File : D:\Marvellous\Python-ML-AI-GenAI Assignments\File Handling+Scheduling\Python Automation Assignment 33 - Duplicate File Removal Automation\DuplicateFileRemoval\Demo\Test1.txt
+Checksum : 475f58d0e3f95f0b72c0e884524ba9de
+Deleted : D:\Marvellous\Python-ML-AI-GenAI Assignments\File Handling+Scheduling\Python Automation Assignment 33 - Duplicate File Removal Automation\DuplicateFileRemoval\Demo\Test1.txt
+
+========== Operation Statistics ==========
+Starting time : 2026-09-02 01:55:26.794762
+Completion time : 2026-09-02 01:55:26.802387
+Directory scanned : D:\Marvellous\Python-ML-AI-GenAI Assignments\File Handling+Scheduling\Python Automation Assignment 33 - Duplicate File Removal Automation\DuplicateFileRemoval\Demo
+Total number of files scanned : 5
+Total number of duplicate files found : 2
+Total number of duplicate files deleted : 2
+
+Sending email...
+Email delivery status : Successfully sent
+
+Operation completed successfully.
+===========================================

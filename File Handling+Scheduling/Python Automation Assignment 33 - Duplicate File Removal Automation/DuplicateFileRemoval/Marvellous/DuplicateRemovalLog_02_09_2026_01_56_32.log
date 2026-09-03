@@ -1,0 +1,18 @@
+========== Duplicate File Removal ==========
+Starting time of directory scanning : 2026-09-02 01:56:32.404905
+Directory scanned : D:\Marvellous\Python-ML-AI-GenAI Assignments\File Handling+Scheduling\Python Automation Assignment 33 - Duplicate File Removal Automation\DuplicateFileRemoval\Demo
+
+
+========== Operation Statistics ==========
+Starting time : 2026-09-02 01:56:32.404905
+Completion time : 2026-09-02 01:56:32.406993
+Directory scanned : D:\Marvellous\Python-ML-AI-GenAI Assignments\File Handling+Scheduling\Python Automation Assignment 33 - Duplicate File Removal Automation\DuplicateFileRemoval\Demo
+Total number of files scanned : 3
+Total number of duplicate files found : 0
+Total number of duplicate files deleted : 0
+
+Sending email...
+Email delivery status : Successfully sent
+
+Operation completed successfully.
+===========================================
