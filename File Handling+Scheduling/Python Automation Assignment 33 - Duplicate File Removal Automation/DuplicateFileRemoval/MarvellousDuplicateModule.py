@@ -180,7 +180,7 @@ def SendMail(SenderEmail, Password, ReceiverEmail, LogFile, Stats):
         Message["To"] = ReceiverEmail
         Message["Subject"] = "Duplicate File Removal Report"
 
-        Body = """Jay Ganesh,
+        Body = """Jay Ganesh..,
 
 The duplicate-file removal operation has been completed successfully.
 
