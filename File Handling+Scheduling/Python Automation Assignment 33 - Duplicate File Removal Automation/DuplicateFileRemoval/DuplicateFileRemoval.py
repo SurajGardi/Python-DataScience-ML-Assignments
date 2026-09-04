@@ -141,7 +141,7 @@ def PerformDuplicateRemoval(DirectoryPath, ReceiverEmail):
 
         MM.WriteLog(LogFile, "")
         MM.WriteLog(LogFile, "Operation completed successfully.")
-        MM.WriteLog(LogFile, "===========================================")
+        MM.WriteLog(LogFile, "============================================")
 
     except Exception as E:
 
