@@ -28,7 +28,6 @@ Predicted Class: Red
 
 import math
 
-
 def EuclideanDistance(Point1, Point2):
     x1, y1 = Point1
     x2, y2 = Point2
