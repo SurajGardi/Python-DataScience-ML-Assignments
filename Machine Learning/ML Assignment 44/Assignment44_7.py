@@ -29,7 +29,7 @@ def PlotBarChart(DataFrame):
     plt.xlabel("Student")
     plt.ylabel("Total Marks")
     plt.title("Total Marks per Student")
-    plt.savefig("bar_plot.png")
+    plt.savefig("Q7_bar_plot.png")
     print("Saved bar_plot.png")
 
 
