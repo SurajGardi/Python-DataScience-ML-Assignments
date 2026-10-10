@@ -128,7 +128,7 @@ Population variance formula:
 
 **Not always needed:** tree-based models (Decision Tree, Random Forest) split on thresholds per feature, so scaling does not change their splits.
 
-**Common methods:** Standardization (z-score) and Min-Max normalization.
+**Common methods:** Standardization (z-score) and Min-Max normalization..
 
 ---
 
