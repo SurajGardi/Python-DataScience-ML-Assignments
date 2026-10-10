@@ -50,7 +50,7 @@ So every Random Forest is a bagging ensemble, but not every bagging ensemble is 
 
 **Yes.**
 - **Classification** → `RandomForestClassifier`: final prediction by **majority vote** of the trees. Example: predicting whether a customer will churn (yes/no).
-- **Regression** → `RandomForestRegressor`: final prediction by **averaging** the trees' numeric outputs. Example: predicting house prices.
+- **Regression** → `RandomForestRegressor`: final prediction by **averaging** the trees' numeric outputs. Example: predicting house prices..
 
 ---
 
