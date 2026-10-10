@@ -112,7 +112,7 @@ def ShowConclusions(Accuracy):
 
 
 def main():
-    print("----- Breast Cancer Prediction -----")
+    print("------ Breast Cancer Prediction ------")
 
     data, X, y = LoadDataset()
     ExploreDataset(data, X, y)
