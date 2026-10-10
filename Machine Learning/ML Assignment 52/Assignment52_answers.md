@@ -100,7 +100,7 @@ Ensembling only helps if the base models **make different errors**. If all model
 - More robust — less sensitive to noise and outliers (especially bagging).
 - Reduces overfitting (bagging) or underfitting (boosting).
 - Works for both classification and regression.
-- Handles complex, non-linear patterns well.
+- Handles complex, non-linear patterns well..
 
 **Disadvantages:**
 - Higher computational cost — training and prediction are slower.
