@@ -6,7 +6,7 @@ Dataset: Loan_Default.csv
 Output: 0 -> Low default risk, 1 -> High default risk.
 
 Features: Age, Income, LoanAmount, CreditScore, EmploymentYears, ExistingLoans,
-MonthlyDebt, LoanTerm, PreviousDefault (Yes/No), HomeOwnership (Rent/Own/Mortgage).
+MonthlyDebt, LoanTerm, PreviousDefault (Yes/No), HomeOwnership  (Rent/Own/Mortgage).
 
 Tasks:
 1. Import Libraries and Load Dataset
