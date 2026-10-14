@@ -1,4 +1,4 @@
-# Marvellous Infosystems — Deep Learning Assignment-: 58
+# Marvellous Infosystems — Deep Learning Assignment 58
 ## Forward/Backward Propagation, Learning Rate & the Perceptron
 
 ---
