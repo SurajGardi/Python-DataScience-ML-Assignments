@@ -1,4 +1,4 @@
-# Marvellous Infosystems — Deep Learning Assignment 59
+# Marvellous Infosystems — Deep Learning Assignment : 59
 ## ANN Layers: Input, Hidden, Output
 
 ---
