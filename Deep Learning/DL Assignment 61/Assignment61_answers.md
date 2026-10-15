@@ -1,5 +1,5 @@
 # Marvellous Infosystems — Deep Learning Assignment 61
-## Feedforward Networks, Loss Functions, Training Concepts & CNN
+## Feedforward Networks, Loss Functions, Training Concepts & CNN.
 
 ---
 
