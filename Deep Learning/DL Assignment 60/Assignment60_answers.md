@@ -1,5 +1,5 @@
 # Marvellous Infosystems — Deep Learning Assignment 60
-## Activation Functions: Sigmoid, Tanh, ReLU, Softmax
+## Activation Functions : Sigmoid, Tanh, ReLU, Softmax
 
 ---
 
