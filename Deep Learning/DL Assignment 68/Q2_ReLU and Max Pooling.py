@@ -11,6 +11,7 @@ Tasks:
 3. Apply 2x2 max pooling.
 4. Display the output after each step.
 5. Explain why pooling reduces size.
+
 """
 
 
