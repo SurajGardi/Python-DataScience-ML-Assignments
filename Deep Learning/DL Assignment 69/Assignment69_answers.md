@@ -1,4 +1,4 @@
-# Assignment 69 — Answers (RNN Theory)
+# Assignment 69 — Answers (RNN Theory) 
 
 ## Q1. Explain hidden state in RNN. Describe how hidden state stores previous information.
 
