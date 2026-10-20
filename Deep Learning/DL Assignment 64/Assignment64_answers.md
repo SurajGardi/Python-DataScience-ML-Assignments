@@ -1,5 +1,5 @@
 # Marvellous Infosystems — Deep Learning Assignment 64
-## Convolutional Neural Network: Convolution, Filters, Pooling & Feature Extraction
+## Convolutional Neural Network: Convolution, Filters, Pooling & Feature Extraction.
 
 ---
 
