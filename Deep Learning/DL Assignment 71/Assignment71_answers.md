@@ -1,4 +1,4 @@
-# Assignment 71 — Answers (RNN Concepts)
+# Assignment 71 — Answers (RNN Concepts) 
 
 ## Q1. Explain the concept of Recurrent Neural Network. Describe why RNN is more suitable than traditional neural networks for sequential data.
 
