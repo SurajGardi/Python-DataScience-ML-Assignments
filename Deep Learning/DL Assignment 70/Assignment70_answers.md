@@ -1,4 +1,4 @@
-# Assignment 70 — Answers (RNN / NLP Theory)
+# Assignment 70 — Answers (RNN / NLP Theory) 
 
 ## Q1. Explain why RNN is widely used in Natural Language Processing.
 
